@@ -434,6 +434,15 @@ hr.major {
   text-align: right;
 }
 
+/* VGV Buttons */
+
+.vgv-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
 /* Row */
 
 .row {
